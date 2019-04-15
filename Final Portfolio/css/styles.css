@@ -154,6 +154,10 @@ p + h3 {
   background-color: rgba(191,183,182,0.8);
   color: rgb(23, 33, 56);
 }
+
+.topproject-images {
+  width: 500px;
+}
 /* Media queries
 ------------------------------------*/
 /* @media (min-width: 900px) {
