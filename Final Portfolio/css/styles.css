@@ -151,7 +151,7 @@ p + h3 {
 /* TOP Projects
 ------------------------------------*/
 .top-projects {
-  background-color: rgb(141,153,174,0.8);
+  background-color: rgba(191,183,182,0.8);
   color: rgb(23, 33, 56);
 }
 /* Media queries
